@@ -1,0 +1,52 @@
+{
+    "name": "AdStage",
+    "description": "Powering marketers with paid social and PPC reporting and automation software. AdStage is connecting performance marketers to the ad data they need to analyze, optimize, and report on their paid media campaigns. Get started with free 14-day trial!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28839-www-adstage-io.jpg",
+    "tags": [
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/adstage\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AdStage",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28839-www-adstage-io.jpg",
+            "humanURL": "https:\/\/www.adstage.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/adstage-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API Blueprint",
+            "url": "https:\/\/raw.githubusercontent.com\/kinlane\/api-documentation\/master\/apiary.apib"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/adstageapi.docs.apiary.io\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/adstage"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/adstage"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.adstage.io"
+        }
+    ]
+}
