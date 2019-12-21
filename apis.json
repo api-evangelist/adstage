@@ -6,8 +6,8 @@
         "have api",
         "no api definition"
     ],
-    "created": "2019-12-18",
-    "modified": "2019-12-18",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/adstage\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -21,7 +21,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/adstage-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/adstage\/master\/adstage-openapi.json"
                 }
             ]
         }
@@ -31,6 +31,10 @@
         {
             "type": "API Blueprint",
             "url": "https:\/\/raw.githubusercontent.com\/kinlane\/api-documentation\/master\/apiary.apib"
+        },
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
         },
         {
             "type": "Documentation",
